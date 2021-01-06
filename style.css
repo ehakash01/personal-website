@@ -1,0 +1,139 @@
+.menu{
+    height: 20%;
+    text-align: right;
+    margin: -5% 0% 5% 0%;
+}
+.menu a{
+    text-decoration: none;
+    color: #1ECCDB;
+    margin: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+}
+h1 ,h2 ,h3{
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 64px;
+}
+h2{
+    font-size: 48px;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+}
+.skyblue-highlight{
+    color: #1ECCDB;
+}
+p{
+    color: #3E3E3E;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    padding-bottom: 40px;
+}
+.top-section ,.about-section{
+    height: 500px;
+    padding: 8%;
+}
+.regular-button , .bottomline-button{
+    text-decoration: none;
+    color: white;
+    padding: 20px 50px;
+    background-image: linear-gradient(180deg, #5D69E9, #4225B6);
+    border-radius: 5px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+}
+.half-width{
+    float: left;
+    width: 50%;
+}
+.half-width p{
+    width: 90%;
+}
+.half-width img{
+    width: 100%;
+    margin-top: -10%;
+}
+.about-section .right-part{
+    width: 44%;
+    padding-left: 6%;
+}
+.project-section{
+    height: 650px;
+    padding: 5%;
+    background-color: #F8F9FC;
+}
+.project-section h2{
+    text-align: center;
+    padding-bottom: 3%;
+}
+.card-box{
+    width: 27%;
+    height: 340px;
+    padding: 15px;
+    background-color: white;
+    box-shadow: 0px 7px 20px #dddddd;
+    border-radius: 15px;
+    float: left;
+    margin-left: 3%;
+}
+.card-box img{
+    width: 100%;
+}
+.bottomline-button{
+    background-image: linear-gradient(180deg, #4289FF, #07F8C3);
+}
+.bottom-section{
+    padding: 8%;
+}
+.bottom-bg-img{
+    width: 900px;
+    height: 225px;
+    background-image: url(images/Group_33094_1.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0 auto;
+}
+.bottom-text h1{
+    color: white;
+    float: left;
+    margin: auto;
+    margin: -13.5% 0% 0% 20%;
+    
+}
+.bottom-text a{
+    float: left;
+    margin: -12.6% 0% 0% 67%;
+}
+.bottom-section p{
+    color: #696871;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 22px;
+    text-align: center;
+    margin-top: 8%;
+}
+.bottom-section .hello-design-text{
+    color: #363958;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    margin: -4%;
+}
+.bottom-section .icon{
+    margin-top: 2%;
+    text-align: center;
+}
+.bottom-section .icon img{
+    width: 40px;
+    height: 40px;
+    padding: 0px 10px;
+}
+footer{
+    padding: 1%;
+    color: #696871;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
